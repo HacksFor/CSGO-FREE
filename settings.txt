@@ -1,0 +1,10 @@
+alt
+hold
+h
+tap
+space
+hold
+j
+tap
+k
+tap
