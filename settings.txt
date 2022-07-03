@@ -6,5 +6,5 @@ space
 hold
 j
 tap
-k
-tap
+alt
+hold
